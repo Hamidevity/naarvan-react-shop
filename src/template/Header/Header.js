@@ -34,7 +34,7 @@ function Header() {
               </span>{" "}
               |{" "}
               <span>
-                <Link to="/signup" className={styles.signIn}>
+                <Link to="/signIn" className={styles.signIn}>
                   ثبت نام{" "}
                 </Link>{" "}
               </span>
