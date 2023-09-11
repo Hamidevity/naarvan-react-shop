@@ -24,7 +24,7 @@ function Header() {
       <div className={styles.header_loginContainer}>
         <div className={styles.header_divLogin}>
           <Link to={"/"} className={styles.header_divLink}>
-            <Link to="/signIN">
+            <Link to="/signIn">
               <HiOutlineLogin className={styles.header_loginIcon} />
             </Link>
             <p>
